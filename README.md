@@ -2,7 +2,7 @@
 
 Check CVE-2021-44228 vulnerability
 
-This test are not 100%% reliable, but it helps for quick scan
+This test is not 100% reliable, but it helps with a quick scan
 
 ## How tu use:
 
